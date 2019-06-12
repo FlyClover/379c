@@ -2,8 +2,6 @@
 title: Musical Episodic Memory
 ---
 
-# Musical Episodic Memory
-
 ## Reconstruction samples
 
 ### Sample 1

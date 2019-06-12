@@ -34,11 +34,35 @@ Original
 Reconstructed
 {% include audio_player.html audio_url="samples/reconstruct/reconstructed_3.wav" %}
 
-First Header | Second Header
------------- | -------------
-{% include audio_player.html audio_url="samples/reconstruct/original_3.wav" %} | {% include audio_player.html audio_url="samples/reconstruct/reconstructed_3.wav" %}
-
 ## Denoising samples
+
+### Sample 1
+Noised
+{% include audio_player.html audio_url="samples/denoise/noised_0.wav" %}
+
+Denoised
+{% include audio_player.html audio_url="samples/denoise/denoised_0_9.wav" %}
+
+### Sample 2
+Noised
+{% include audio_player.html audio_url="samples/denoise/noised_1.wav" %}
+
+Denoised
+{% include audio_player.html audio_url="samples/denoise/denoised_1_9.wav" %}
+
+### Sample 3
+Noised
+{% include audio_player.html audio_url="samples/denoise/noised_2.wav" %}
+
+Denoised
+{% include audio_player.html audio_url="samples/denoise/denoised_2_9.wav" %}
+
+### Sample 4
+Noised
+{% include audio_player.html audio_url="samples/denoise/noised_3.wav" %}
+
+Denoised
+{% include audio_player.html audio_url="samples/denoise/denoised_3_9.wav" %}
 
 ## Completion samples
 

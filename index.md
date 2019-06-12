@@ -32,7 +32,7 @@ Original
 Reconstructed
 {% include audio_player.html audio_url="samples/reconstruct/reconstructed_3.wav" %}
 
-## [Denoising samples](#denoising)
+## [Denoising samples](#denoising-samples)
 
 ### Sample 1
 Noised

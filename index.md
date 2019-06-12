@@ -2,13 +2,11 @@
 title: Musical Episodic Memory
 ---
 
-## Reconstruction samples
+## [Reconstruction samples](#reconstructions-samples)
 
-### Sample 1
-Original
+Sample 1 original
 {% include audio_player.html audio_url="samples/reconstruct/original_0.wav" %}
-
-Reconstructed
+Sample 1 reconstructed
 {% include audio_player.html audio_url="samples/reconstruct/reconstructed_0.wav" %}
 
 ### Sample 2

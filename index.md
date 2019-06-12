@@ -2,7 +2,7 @@
 title: Musical Episodic Memory
 ---
 
-## [Reconstruction samples](#reconstructions)
+## [Reconstruction samples](#reconstruction-samples)
 
 #### Sample 1
 Original
@@ -62,7 +62,7 @@ Noised
 Denoised
 {% include audio_player.html audio_url="samples/denoise/denoised_3_9.wav" %}
 
-## [Completion samples](#completion)
+## [Completion samples](#completion-samples)
 ### Sample 1
 Masked
 {% include audio_player.html audio_url="samples/complete/masked_0.wav" %}
@@ -70,3 +70,23 @@ Masked
 Completed
 {% include audio_player.html audio_url="samples/complete/reconstructed_0.wav" %}
 
+### Sample 2
+Masked
+{% include audio_player.html audio_url="samples/complete/masked_1.wav" %}
+
+Completed
+{% include audio_player.html audio_url="samples/complete/reconstructed_1.wav" %}
+
+### Sample 3
+Masked
+{% include audio_player.html audio_url="samples/complete/masked_2.wav" %}
+
+Completed
+{% include audio_player.html audio_url="samples/complete/reconstructed_2.wav" %}
+
+### Sample 4
+Masked
+{% include audio_player.html audio_url="samples/complete/masked_3.wav" %}
+
+Completed
+{% include audio_player.html audio_url="samples/complete/reconstructed_3.wav" %}
